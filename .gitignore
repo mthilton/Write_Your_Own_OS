@@ -32,4 +32,5 @@
 *.app
 
 # Other Ignores
-target/x86-64/iso/boot/kernel.bin
+*.bin
+*.iso
